@@ -12,13 +12,13 @@
 
 - 💬 Ask me about **Java, JavaScript, C**
 
-- 📫 How to reach me **l.conti0518@gmail.com**
+- 📫 How to reach me **fantacasper25@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lorenzo_conti0518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzo_conti0518" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzo_conti0518" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
